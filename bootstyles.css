@@ -1,0 +1,8 @@
+body{background-color: lavender;}
+
+.Navigation{font-family:Arial, Helvetica, sans-serif; text-align: center;}
+
+.TabLeft{padding-left: 100px;padding-right: 100px;}
+
+.Footer{border-style: solid; text-align: center; margin:auto;width: 500px;}
+.anchor{color:coral}
